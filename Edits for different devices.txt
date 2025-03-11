@@ -1,0 +1,7 @@
+1. Block.py
+	def to_dict(self):
+		Mining Node: "192.168.1.X"
+2. Reciever.py
+	def recieve_message():
+		my_ip="192.168.1.X"
+
